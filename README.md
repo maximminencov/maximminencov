@@ -90,7 +90,7 @@
 - визуализация;
 - бизнес-выводы.
 
-**Статус:** скоро будет опубликован.
+👉 [Открыть проект](https://github.com/maximminencov/retail-sales-analytics-data-quality)
 
 ---
 
