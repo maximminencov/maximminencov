@@ -107,7 +107,7 @@
 - A/B-анализ;
 - подготовка рекомендаций.
 
-**Статус:** скоро будет опубликован.
+👉 [Открыть проект](https://github.com/maximminencov/insurance-customer-analytics)
 
 ---
 
